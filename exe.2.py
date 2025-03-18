@@ -1,7 +1,7 @@
 ''' 1
 nome = str ("João")
 print(nome)'''
-import math
+
 
 '''2
 a = int ('5')
